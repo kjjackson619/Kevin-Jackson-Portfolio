@@ -1,14 +1,14 @@
 # Kevin-Jackson-Professional-Portfolio
 
-##Purpose
+## Purpose
 A website based project portfolio, displaying all of my web created project content. Also houses contact info for future employers.
 
 
-##Built With
-*HMTL
-*CSS
+## Built With
+* HMTL
+* CSS
 
-##Website
+## Website
 
-##Contribution
+## Contribution
 Made by Kevin Jackson
